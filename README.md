@@ -1,6 +1,6 @@
 # Flutter WhatsChat
 
-A new Flutter project.
+A new starter project of Flutter WhatsChat which is a redesigned version of WhatsApp with Firebase as backend.
 
 ## Getting Started
 
