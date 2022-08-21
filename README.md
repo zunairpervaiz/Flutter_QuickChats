@@ -1,4 +1,4 @@
-# demo_application
+# Flutter WhatsChat
 
 A new Flutter project.
 
