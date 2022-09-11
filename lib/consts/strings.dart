@@ -1,6 +1,6 @@
 const listOfFeatures = ["Fast", "Powerful", "Secure", "Private", "Unlimited", "Synced", "Reliable"];
 
-const appname = "WhatsChat",
+const appname = "Quick Chats",
     account = "Account",
     chats = "Chats",
     status = "Status",
