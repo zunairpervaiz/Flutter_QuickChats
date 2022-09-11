@@ -80,15 +80,18 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: lato
+    - family: mont
       fonts:
-        - asset: assets/fonts/lato.ttf
-    - family: lato_bold
+        - asset: assets/fonts/mont.ttf
+    - family: mont_bold
       fonts:
-        - asset: assets/fonts/lato_bold.ttf
-    - family: lato_light
+        - asset: assets/fonts/mont_bold.ttf
+    - family: mont_light
       fonts:
-        - asset: assets/fonts/lato_light.ttf
+        - asset: assets/fonts/mont_light.ttf
+    - family: mont_semi
+      fonts:
+        - asset: assets/fonts/mont_semi.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
