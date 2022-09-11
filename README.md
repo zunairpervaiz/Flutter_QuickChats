@@ -1,6 +1,6 @@
-# Flutter WhatsChat
+# Flutter QuickChats
 
-A new starter project of Flutter WhatsChat which is a redesigned version of WhatsApp with Firebase as backend.
+A new starter project of Flutter QuickChats which is a redesigned version of WhatsApp with Firebase as backend.
 
 ## Getting Started
 
